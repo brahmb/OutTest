@@ -7,3 +7,5 @@ C:\Users\Brahm\Documents\Visual Studio 2008\Projects\OutTest\OutTest\obj\Debug\O
 C:\Users\Brahm\Documents\Visual Studio 2008\Projects\OutTest\OutTest\obj\Debug\OutTest.pdb
 C:\Users\Brahm\Documents\CVs\OutSurance (OfferZen)\OutTest\OutTest\obj\Debug\OutTest.exe
 C:\Users\Brahm\Documents\CVs\OutSurance (OfferZen)\OutTest\OutTest\obj\Debug\OutTest.pdb
+C:\Users\Brahm\Documents\CVs\OutSurance (OfferZen)\GIT_OutTest\OutTest\OutTest\OutTest\obj\Debug\OutTest.exe
+C:\Users\Brahm\Documents\CVs\OutSurance (OfferZen)\GIT_OutTest\OutTest\OutTest\OutTest\obj\Debug\OutTest.pdb
